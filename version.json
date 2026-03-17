@@ -1,0 +1,16 @@
+{
+  "latest_version": "1.0.0",
+  "latest_build": 1,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.0.0/mirai.apk",
+  "changelog": [
+    "First public release",
+    "Search and stream anime episodes",
+    "Quality selector and server switching",
+    "PiP (Picture-in-Picture) support for background playback",
+    "Auto-next episode and watch progress saving",
+    "Proxy toggle for streaming",
+    "Light/Dark theme toggle",
+    "Modern UI with shimmer loading and error handling"
+  ],
+  "force_update": false
+}
