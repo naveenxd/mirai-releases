@@ -5,7 +5,7 @@
   "changelog": [
     "Added Search history suggestions for faster access to previously searched anime",
     "Fixed app versioning in about section",
-    "Improved skeletion loaders in white theme"
+    "Improved skeleton loaders in white theme"
   ],
   "force_update": false,
   "history": [
