@@ -4,6 +4,7 @@
   "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.3.0/mirai.apk",
   "changelog": [
     "Added favorite anime section for quick access to followed series",
+    "Fix update dialog and navigation overlap issues",
     "Minor bug fixes and performance improvements"
   ],
   "force_update": false,
