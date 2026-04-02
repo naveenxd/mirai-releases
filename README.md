@@ -8,4 +8,4 @@ Mirai is a serene, distraction-free Android app built for those who value perfor
  
 ## Built by
  
-[Naveen](https://nxd.devh.in) — *Code that moves. Design that breathes.*
+[Naveen_xD](https://nxd.devh.in) — *Code that moves. Design that breathes.*
