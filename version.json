@@ -6,7 +6,7 @@
     "Fix server issues and improve stability",
     "Replaced Favorites with Wishlist for better naming consistency"
   ],
-  "force_update": false,
+  "force_update": true,
   "history": [
     {
       "version": "1.3.0",
