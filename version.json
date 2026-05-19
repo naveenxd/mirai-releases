@@ -1,13 +1,26 @@
 {
-  "latest_version": "1.4.0", 
-  "latest_build": 5,
-  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.4.0/mirai.apk",
+  "latest_version": "1.5.0", 
+  "latest_build": 6,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.5.0/mirai.apk",
   "changelog": [
-    "Fix server issues and improve stability",
-    "Replaced Favorites with Wishlist for better naming consistency"
+    "Fix random crashes and minor bugs",
+    "New search layout with better readability",
+    "Added episode switching from player",
+    "Add option to disable slide to seek",
+    "Fix search history suggestions not showing up",
+    "Improve progress saving for episodes",
+    "Improve minor ui/ux design"    
   ],
   "force_update": true,
   "history": [
+    {
+      "version": "1.4.0",
+      "build": 5,
+      "changelog": [
+        "Fix server issues and improve stability",
+        "Replaced Favorites with Wishlist for better naming consistency"
+      ]
+    },
     {
       "version": "1.3.0",
       "build": 4,
