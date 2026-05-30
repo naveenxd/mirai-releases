@@ -1,18 +1,29 @@
 {
-  "latest_version": "1.5.0", 
-  "latest_build": 6,
-  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.5.0/mirai.apk",
+  "latest_version": "1.6.0", 
+  "latest_build": 7,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.6.0/mirai.apk",
   "changelog": [
-    "Fix random crashes and minor bugs",
-    "New search layout with better readability",
-    "Added episode switching from player",
-    "Add option to disable slide to seek",
-    "Fix search history suggestions not showing up",
-    "Improve progress saving for episodes",
-    "Improve minor ui/ux design"    
+    "The app is now working again",
+    "Servers are back online and functional",
+    "Improved server stability and performance",
+    "Better naming for anime quality options"
+
   ],
   "force_update": true,
   "history": [
+    {
+      "version": "1.5.0",
+      "build": 6,
+      "changelog": [
+        "Fix random crashes and minor bugs",
+        "New search layout with better readability",
+        "Added episode switching from player",
+        "Add option to disable slide to seek",
+        "Fix search history suggestions not showing up",
+        "Improve progress saving for episodes",
+        "Improve minor ui/ux design"
+      ]
+    },
     {
       "version": "1.4.0",
       "build": 5,
