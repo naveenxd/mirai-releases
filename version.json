@@ -1,16 +1,28 @@
 {
-  "latest_version": "1.6.0", 
-  "latest_build": 7,
-  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v1.6.0/mirai.apk",
+  "latest_version": "2.0.0", 
+  "latest_build": 8,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.0/mirai.apk",
   "changelog": [
-    "The app is now working again",
-    "Servers are back online and functional",
-    "Improved server stability and performance",
-    "Better naming for anime quality options"
-
+    "Added multiple providers for streaming",
+    "Refined settingspage by dividing it into sections.",
+    "Added explore page to browse trending and popular anime",
+    "Redesigned home screen with new sections and improved navigation",
+    "Support for push notifications to keep you updated on new releases",
+    "Swipe smoothly between Info and Watch sections when viewing an anime",
+    "Swipe gestures for volume and improved double-tap seeking during playback"
   ],
   "force_update": true,
   "history": [
+    {
+      "version": "1.6.0",
+      "build": 7,
+      "changelog": [
+        "The app is now working again",
+        "Servers are back online and functional",
+        "Improved server stability and performance",
+        "Better naming for anime quality options"
+      ]
+    },
     {
       "version": "1.5.0",
       "build": 6,
