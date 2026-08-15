@@ -1,18 +1,37 @@
 {
-  "latest_version": "2.0.0", 
-  "latest_build": 8,
-  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.0/mirai.apk",
+  "latest_version": "2.0.1",
+  "latest_build": 9,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1.apk",
+  "apk_urls": {
+    "arm64-v8a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-armeabi-v7a.apk",
+    "x86_64": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-x86_64.apk"
+  },
+  "sha256": {
+    "arm64-v8a": "5f29a33ffd00ca4f50d7f7a9f9f1645586862519e20b6b6fabec89808774841f",
+    "armeabi-v7a": "5d3b72df517566ef06d2742168bb440b7efa2ea0fd90a9413bdd347daaa49d2c",
+    "x86_64": "c1222076429b6df700e0d75e76726389bb33a2601733f7b2bffaa3a10a54cce6"
+  },
   "changelog": [
-    "Added multiple providers for streaming",
-    "Refined settingspage by dividing it into sections.",
-    "Added explore page to browse trending and popular anime",
-    "Redesigned home screen with new sections and improved navigation",
-    "Support for push notifications to keep you updated on new releases",
-    "Swipe smoothly between Info and Watch sections when viewing an anime",
-    "Swipe gestures for volume and improved double-tap seeking during playback"
+    "Smoother home screen with faster loads and less jank while scrolling",
+    "Search bar is now always visible at the top of the home screen",
+    "Smaller and faster app updates (downloads the build for your device)",
+    "Fixed stale search results and duplicate explore pages",
+    "Misc performance and stability improvements"
   ],
-  "force_update": true,
+  "force_update": false,
   "history": [
+    {
+      "version": "2.0.1",
+      "build": 9,
+      "changelog": [
+        "Smoother home screen with faster loads and less jank while scrolling",
+        "Search bar is now always visible at the top of the home screen",
+        "Smaller and faster app updates (downloads the build for your device)",
+        "Fixed stale search results and duplicate explore pages",
+        "Misc performance and stability improvements"
+      ]
+    },
     {
       "version": "1.6.0",
       "build": 7,

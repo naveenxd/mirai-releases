@@ -1,0 +1,36 @@
+{
+  "latest_version": "2.0.1",
+  "latest_build": 9,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-debug-arm64-v8a.apk",
+  "apk_urls": {
+    "arm64-v8a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-debug-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-debug-armeabi-v7a.apk",
+    "x86_64": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-debug-x86_64.apk"
+  },
+  "sha256": {
+    "arm64-v8a": "d6fd28b3ae85f767f49c0a2e35544b06a0df00b5f4be14b61a2a1022168ef81a",
+    "armeabi-v7a": "94bfa306e3ca74a2fe5b0d3c4e3a146836e17420ce86a1bcf476e0a11df5c6ac",
+    "x86_64": "e95e3e6d451432b363a5db6cb6f244adc70ba4618ddadae47b455a0de9162b67"
+  },
+  "changelog": [
+    "Smoother home screen with faster loads and less jank while scrolling",
+    "Search bar is now always visible at the top of the home screen",
+    "Smaller and faster app updates (downloads the build for your device)",
+    "Fixed stale search results and duplicate explore pages",
+    "Misc performance and stability improvements"
+  ],
+  "force_update": false,
+  "history": [
+    {
+      "version": "2.0.1",
+      "build": 9,
+      "changelog": [
+        "Smoother home screen with faster loads and less jank while scrolling",
+        "Search bar is now always visible at the top of the home screen",
+        "Smaller and faster app updates (downloads the build for your device)",
+        "Fixed stale search results and duplicate explore pages",
+        "Misc performance and stability improvements"
+      ]
+    }
+  ]
+}
