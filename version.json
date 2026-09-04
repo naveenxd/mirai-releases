@@ -1,26 +1,45 @@
 {
-  "latest_version": "2.0.1",
-  "latest_build": 9,
-  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1.apk",
+  "latest_version": "2.0.2",
+  "latest_build": 10,
+  "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.2/mirai-2.0.2.apk",
   "apk_urls": {
-    "arm64-v8a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-armeabi-v7a.apk",
-    "x86_64": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.1/mirai-2.0.1-x86_64.apk"
+    "arm64-v8a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.2/mirai-2.0.2-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.2/mirai-2.0.2-armeabi-v7a.apk",
+    "x86_64": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.2/mirai-2.0.2-x86_64.apk"
   },
   "sha256": {
-    "arm64-v8a": "f0e4698b270540817f5137f046449a1fc423139bfad644bf6c37c0efdac6a355",
-    "armeabi-v7a": "334e153e7e33702402d48c045e1570c48679668a302b3ff29e6d2b06f168b6cc",
-    "x86_64": "51b86fd901a5602456bc922ee58273919bc2a58e036a871651bc075910658502"
+    "arm64-v8a": "2e93f05342b5cb7dbef0adc19e89ce37dc080d8820b1c37e78f454a18d28c878",
+    "armeabi-v7a": "b2cbacfc31d7c0511b51c09b022496a4f5bd1bfbf8de76cbe32dab4987d683a5",
+    "x86_64": "3b9791151beabc3cbff43d0c0440a682c24fa7f60b5fa6e0b5f1b332f5aa1b06"
   },
   "changelog": [
-    "Smoother home screen with faster loads and less jank while scrolling",
-    "Search bar is now always visible at the top of the home screen",
-    "Smaller and faster app updates (downloads the build for your device)",
-    "Fixed stale search results and duplicate explore pages",
-    "Misc performance and stability improvements"
+    "New double-tap gestures on the player: side-taps seek with a sleek chevron and amount overlay, and the center double-tap shows a smooth play/pause indicator",
+    "Fixed double-tap seeking jumping too far or overriding your manual seeks when resuming an episode",
+    "Redesigned the player's exit, server switch and subtitle panels with a fresh frosted-glass look",
+    "The home screen quote now highlights the character name and anime title",
+    "Smoother, lighter home feed with faster loads and fewer dropped frames",
+    "Lower memory use and smaller install size (fonts bundled instead of downloaded)",
+    "Default streaming provider is now controllable from the app's remote config (first provider wins)",
+    "Faster episode and details screens with lighter visuals",
+    "General stability improvements across the player and watch history"
   ],
-  "force_update": false,
+  "force_update": true,
   "history": [
+    {
+      "version": "2.0.2",
+      "build": 10,
+      "changelog": [
+        "New double-tap gestures on the player: side-taps seek with a sleek chevron and amount overlay, and the center double-tap shows a smooth play/pause indicator",
+        "Fixed double-tap seeking jumping too far or overriding your manual seeks when resuming an episode",
+        "Redesigned the player's exit, server switch and subtitle panels with a fresh frosted-glass look",
+        "The home screen quote now highlights the character name and anime title",
+        "Smoother, lighter home feed with faster loads and fewer dropped frames",
+        "Lower memory use and smaller install size (fonts bundled instead of downloaded)",
+        "Default streaming provider is now controllable from the app's remote config (first provider wins)",
+        "Faster episode and details screens with lighter visuals",
+        "General stability improvements across the player and watch history"
+      ]
+    },
     {
       "version": "2.0.1",
       "build": 9,
