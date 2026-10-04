@@ -1,16 +1,22 @@
 {
   "latest_version": "2.0.3",
-  "latest_build": 12,
+  "latest_build": 4013,
+  "apk_build": 13,
   "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3.apk",
   "apk_urls": {
     "arm64-v8a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3-arm64-v8a.apk",
     "armeabi-v7a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3-armeabi-v7a.apk",
     "x86_64": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3-x86_64.apk"
   },
+  "apk_builds": {
+    "arm64-v8a": 2013,
+    "armeabi-v7a": 1013,
+    "x86_64": 4013
+  },
   "sha256": {
-    "arm64-v8a": "95fda85db5da44be2e7306a4dbeb65d611afe6067820ba0b0e0a335cc2d25acc",
-    "armeabi-v7a": "7fcab9dead80d14f66f077b8fb7fc980bb3836d7d766f57a00dbe2e12e546d4a",
-    "x86_64": "31aae5d699a9c5ecdb69997493e1bd45a8764144e7d8add345fb8b657e7c744b"
+    "arm64-v8a": "2ff6c7ace6eee2abb6f6999045fb40dfc01ba1302c4acefe0f931594d3a8ba2d",
+    "armeabi-v7a": "c8de54e6bd5d29355c8298cd70930198488da1c1d051fae8be92f828eba5edf4",
+    "x86_64": "cf6648cd3e11c6178001cbcbbb8a3856a37d16c9a4bfd921ec9cded28c672526"
   },
   "changelog": [
     "Improved search results with refined poster cards, clearer metadata, and better list and grid layouts",
@@ -22,6 +28,18 @@
   ],
   "force_update": true,
   "history": [
+    {
+      "version": "2.0.3",
+      "build": 13,
+      "changelog": [
+        "Improved search results with refined poster cards, clearer metadata, and better list and grid layouts",
+        "Fixed episode counts, release years, and airing statuses across search results and anime screens",
+        "Added more anime details from AniList, including production information and redesigned character cards",
+        "Moved watch history into View all beside Continue Watching on the home screen, simplifying the bottom navigation",
+        "Fixed playback and subtitle URLs resolving incorrectly against the streaming backend",
+        "Improved subtitle rendering"
+      ]
+    },
     {
       "version": "2.0.3",
       "build": 12,
