@@ -1,6 +1,6 @@
 {
   "latest_version": "2.0.3",
-  "latest_build": 11,
+  "latest_build": 12,
   "apk_url": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3.apk",
   "apk_urls": {
     "arm64-v8a": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3-arm64-v8a.apk",
@@ -8,28 +8,32 @@
     "x86_64": "https://github.com/naveenxd/mirai-releases/releases/download/v2.0.3/mirai-2.0.3-x86_64.apk"
   },
   "sha256": {
-    "arm64-v8a": "90ee95e795a0175b26163b5dfcb8b7eba5172cb1916176b51879992458237a8b",
-    "armeabi-v7a": "7a4e66a0555d6f1f9fe5d291aea30f8fb5900ed8ecea23aab6a7f56a5492d3ed",
-    "x86_64": "fef6243e5a8377ee94d59a209627efa62647619e8eb126cb28cf48c9d60d6ccf"
+    "arm64-v8a": "95fda85db5da44be2e7306a4dbeb65d611afe6067820ba0b0e0a335cc2d25acc",
+    "armeabi-v7a": "7fcab9dead80d14f66f077b8fb7fc980bb3836d7d766f57a00dbe2e12e546d4a",
+    "x86_64": "31aae5d699a9c5ecdb69997493e1bd45a8764144e7d8add345fb8b657e7c744b"
   },
   "changelog": [
     "Improved search results with refined poster cards, clearer metadata, and better list and grid layouts",
     "Fixed episode counts, release years, and airing statuses across search results and anime screens",
     "Added more anime details from AniList, including production information and redesigned character cards",
-    "Genres on anime detail pages now open their browsing pages",
-    "Kept the Info and Watch tabs in place while scrolling details or episode lists, with smoother content transitions",
-    "Redesigned Explore and genre results with cleaner headers, improved browsing controls, and minimal genre page headers",
     "Moved watch history into View all beside Continue Watching on the home screen, simplifying the bottom navigation",
     "Fixed playback and subtitle URLs resolving incorrectly against the streaming backend",
-    "Fixed protected subtitle downloads, embedded track discovery, and track selection when switching episodes or servers",
-    "Subtitle controls now stay hidden when no tracks are available, with loading and error feedback for track selection",
-    "Redesigned the player subtitle panel to match Mirai, with separate Language and Appearance tabs and matching settings previews",
-    "Improved subtitle rendering with white text, a crisp black outline, and defaults of size 27 and outline 1.0",
-    "Fixed progress-bar dragging moving playback before release",
-    "Faster release builds by generating universal and per-architecture APKs in parallel"
+    "Improved subtitle rendering"
   ],
   "force_update": true,
   "history": [
+    {
+      "version": "2.0.3",
+      "build": 12,
+      "changelog": [
+        "Improved search results with refined poster cards, clearer metadata, and better list and grid layouts",
+        "Fixed episode counts, release years, and airing statuses across search results and anime screens",
+        "Added more anime details from AniList, including production information and redesigned character cards",
+        "Moved watch history into View all beside Continue Watching on the home screen, simplifying the bottom navigation",
+        "Fixed playback and subtitle URLs resolving incorrectly against the streaming backend",
+        "Improved subtitle rendering"
+      ]
+    },
     {
       "version": "2.0.3",
       "build": 11,
